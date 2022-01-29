@@ -10,3 +10,6 @@
 <br>
 
 <b><i>This Flipkart Clone Is Fully Functional & Responsive.</i></b> 
+<br><br><br>
+![Screenshot (403)](https://user-images.githubusercontent.com/85762282/151658342-45111f12-bf18-4607-b071-e6ad82a26764.png)
+
